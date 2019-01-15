@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 AAAAAAAA
+=======
+<h1>Hi</h1>
+aaa
+KKK
+>>>>>>> f826288579d6171064bf4bd48457bbc187ddd5aa
